@@ -318,5 +318,6 @@
   "LINEで{title}のグラフをシェア": "在LINE上分享这个图表：{title}",
   "Twitterで{title}のグラフをシェア": "在Twitter上分享这个图表：{title}",
   "facebookで{title}のグラフをシェア": "在Facebook上分享这个图表：{title}F",
-  "日付": "日期"
+  "日付": "日期",
+  "不明": "不明"
 }
